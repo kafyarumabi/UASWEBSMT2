@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Review</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+
+    <h1>🎬 Movie Review</h1>
+    <p>Review film favoritmu</p>
+
+</header>
+
+<div class="container">
+
+    <div class="form">
+
+        <input
+            type="text"
+            id="movieName"
+            placeholder="Judul Film">
+
+        <select id="rating">
+             <option value="">Pilih Rating</option>
+             <option value="1">⭐</option>
+             <option value="2">⭐⭐</option>
+             <option value="3">⭐⭐⭐</option>
+             <option value="4">⭐⭐⭐⭐</option>
+             <option value="5">⭐⭐⭐⭐⭐</option>
+        </select>
+
+        <textarea
+            id="review"
+            placeholder="Tulis review..."></textarea>
+
+        <button onclick="addMovie()">
+            Tambah Review
+        </button>
+
+    </div>
+
+    <div id="movieList"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
