@@ -38,3 +38,5 @@ Title untuk mengisi judul film dengan tipe data VARCHAR
 Rating untuk memberikan penilaian dengan tipe data INTEGER 
 Review untuk memberikan ulasan dengan tipe data TEXT 
 Created_at untuk keterangan waktu review dengan tipe data TIMESTAMP.
+
+https://youtu.be/jqhYATbUQIA?si=XZg1rCJQp_JN77Y9
