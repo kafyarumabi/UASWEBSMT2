@@ -39,4 +39,8 @@ Rating untuk memberikan penilaian dengan tipe data INTEGER
 Review untuk memberikan ulasan dengan tipe data TEXT 
 Created_at untuk keterangan waktu review dengan tipe data TIMESTAMP.
 
+**LINK VIDIO DEMO**
 https://youtu.be/jqhYATbUQIA?si=XZg1rCJQp_JN77Y9
+
+**ISI LAPORAN LEBIH LENGKAP DAN SCREENSHOT**
+https://drive.google.com/drive/folders/1KUjhOvUmDWMkoMBC_vu9McQfpxj_29CS?usp=drive_link
